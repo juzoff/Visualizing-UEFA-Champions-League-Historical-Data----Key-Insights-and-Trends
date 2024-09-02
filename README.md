@@ -36,8 +36,8 @@ These visualizations provide a comprehensive view of the top-performing teams, p
 
 The following copies of the workbook are included for easy access to visualizations and insights:
 
-- *Exported as PowerPoint (PowerPoint)*
-- *Exported as 2024 Version (Tableau Workbook)*
-- *Exported as Packaged Workbook (Tableau Packaged Workbook)*
+- *Exported as PowerPoint {.pptx} (PowerPoint)*
+- *Exported as 2024 Version {.twb} (Tableau Workbook)*
+- *Exported as Packaged Workbook {.twbx} (Tableau Packaged Workbook)*
 
 Feel free to explore the visualizations and data analysis in these formats!
